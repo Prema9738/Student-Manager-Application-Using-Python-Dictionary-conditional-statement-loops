@@ -1,0 +1,2 @@
+# Student-Manager-Application-Using-Python-Dictionary-conditional-statement-loops
+Developed a menu-driven Student Manager Application in Python using dictionaries to store student records. The application allows users to add students, view records, and check pass/fail status based on marks. The project demonstrates proficiency in Python fundamentals, data structures, loops, and conditional statements.
